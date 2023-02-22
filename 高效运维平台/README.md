@@ -46,5 +46,4 @@
 ![img_28.png](img_28.png)
 ![img_29.png](img_29.png)
 ![img_30.png](img_30.png)
-![img_31.png](img_31.png)
-![img_32.png](img_32.png)
+
