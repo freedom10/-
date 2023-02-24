@@ -1,5 +1,3 @@
-# Golang-Guide 
-
 
 ### 个人开发参与项目相关展示
 * [AI实训平台](https://github.com/freedom10/guide/blob/main/AI%E5%AE%9E%E8%AE%AD%E5%B9%B3%E5%8F%B0/README.md)
