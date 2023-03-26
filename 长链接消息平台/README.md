@@ -11,19 +11,19 @@
 9.具备完善的监控体系和消息回溯能力，消息推送效果实时跟踪分析。
 ```
 ### 架构图
-![img.png](http://rqkspbjqv.hn-bkt.clouddn.com/%E9%95%BF%E9%93%BE%E6%8E%A5/img.png)
-![img_1.png](http://rqkspbjqv.hn-bkt.clouddn.com/%E9%95%BF%E9%93%BE%E6%8E%A5/img_1.png)
+![img.png](https://i.imgtg.com/2023/03/26/jNIiK.png)
+![img_1.png](https://i.imgtg.com/2023/03/26/jeMbN.png)
 
 ###展示
-![img_2.png](http://rqkspbjqv.hn-bkt.clouddn.com/%E9%95%BF%E9%93%BE%E6%8E%A5/img_2.png)
-![img_3.png](http://rqkspbjqv.hn-bkt.clouddn.com/%E9%95%BF%E9%93%BE%E6%8E%A5/img_3.png)
-![img_4.png](http://rqkspbjqv.hn-bkt.clouddn.com/%E9%95%BF%E9%93%BE%E6%8E%A5/img_4.png)
-![img_5.png](http://rqkspbjqv.hn-bkt.clouddn.com/%E9%95%BF%E9%93%BE%E6%8E%A5/img_5.png)
-![img_6.png](http://rqkspbjqv.hn-bkt.clouddn.com/%E9%95%BF%E9%93%BE%E6%8E%A5/img_6.png)
-![img_7.png](http://rqkspbjqv.hn-bkt.clouddn.com/%E9%95%BF%E9%93%BE%E6%8E%A5/img_7.png)
-![img_8.png](http://rqkspbjqv.hn-bkt.clouddn.com/%E9%95%BF%E9%93%BE%E6%8E%A5/img_8.png)
-![img_9.png](http://rqkspbjqv.hn-bkt.clouddn.com/%E9%95%BF%E9%93%BE%E6%8E%A5/img_9.png)
-![img_10.png](http://rqkspbjqv.hn-bkt.clouddn.com/%E9%95%BF%E9%93%BE%E6%8E%A5/img_10.png)
-![img_11.png](http://rqkspbjqv.hn-bkt.clouddn.com/%E9%95%BF%E9%93%BE%E6%8E%A5/img_11.png)
-![img_12.png](http://rqkspbjqv.hn-bkt.clouddn.com/%E9%95%BF%E9%93%BE%E6%8E%A5/img_12.png)
-![img_13.png](http://rqkspbjqv.hn-bkt.clouddn.com/%E9%95%BF%E9%93%BE%E6%8E%A5/img_13.png)
+![img_2.png](https://i.imgtg.com/2023/03/26/jNC2S.png)
+![img_3.png](https://i.imgtg.com/2023/03/26/jN34a.png)
+![img_4.png](https://i.imgtg.com/2023/03/26/jNX3s.png)
+![img_5.png](https://i.imgtg.com/2023/03/26/jeOgC.png)
+![img_6.png](https://i.imgtg.com/2023/03/26/jeaVL.png)
+![img_7.png](https://i.imgtg.com/2023/03/26/jeqqi.png)
+![img_8.png](https://i.imgtg.com/2023/03/26/je5rX.png)
+![img_9.png](https://i.imgtg.com/2023/03/26/jeBQt.png)
+![img_10.png](https://i.imgtg.com/2023/03/26/jeTCx.png)
+![img_11.png](https://i.imgtg.com/2023/03/26/jeWij.png)
+![img_12.png](https://i.imgtg.com/2023/03/26/jeb4p.png)
+![img_13.png](https://i.imgtg.com/2023/03/26/jek6U.png)

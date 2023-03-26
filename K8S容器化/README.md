@@ -1,13 +1,12 @@
 
 ### Jenkins
-![img.png](http://rqkspbjqv.hn-bkt.clouddn.com/k8s/img.png)
-![img_1.png](http://rqkspbjqv.hn-bkt.clouddn.com/k8s/img_1.png)
+![img.png](https://i.imgtg.com/2023/03/26/jNyaX.png)
+![img_1.png](https://i.imgtg.com/2023/03/26/jNKyL.png)
 ### Gitea
-![img_2.png](http://rqkspbjqv.hn-bkt.clouddn.com/k8s/img_2.png)
+![img_2.png](https://i.imgtg.com/2023/03/26/jNAUC.png)
 ### sonarqube
-![img_4.png](http://rqkspbjqv.hn-bkt.clouddn.com/k8s/img_4.png)
+![img_4.png](https://i.imgtg.com/2023/03/26/jNZsi.png)
 ### harbor
-![img_5.png](http://rqkspbjqv.hn-bkt.clouddn.com/k8s/img_5.png)
+![img_5.png](https://i.imgtg.com/2023/03/26/jNmGx.png)
 ### kuboard
-![img_3.png](http://rqkspbjqv.hn-bkt.clouddn.com/k8s/img_3.png)
-
+![img_3.png](https://i.imgtg.com/2023/03/26/jNget.png)
